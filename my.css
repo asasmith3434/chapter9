@@ -1,2 +1,22 @@
-body{ text-align: center;
-      background-color:cyan;}
+h1{
+    font-family: "Times New Roman", Times, serif;
+    text-align:center;
+    background-color: aquamarine;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: auto;
+}
+body{
+    background-color: aqua;
+        
+    
+}
+p{ 
+    text-align: center;
+     background-color: #80ced6;
+}
+ol{ 
+    text-align:center;
+    background-color: #80ced6;
+}
